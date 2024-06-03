@@ -1,20 +1,29 @@
 **Sales Analysis of Olist E-commerce Store**
 
 **Introduction**
+
+
 The Olist sales dataset is a collection of anonymized data about orders placed on the Olist from September 2016 to September 2018. It contains a wide range of information about each order, including the order date, product details, payment and shipping information, customer and seller IDs, and customer reviews. The dataset also includes information about the sellers who list their products on Olist, as well as data on customer behavior and demographics. The dataset is designed to help analysts and researchers better understand the e-commerce landscape in Brazil and identify opportunities for growth and optimization.
 
 **Power BI Skills/Concepts applied:**
-Data Cleaning/Validation in Power Query
-Data Modelling
-Data Visualization
-DAX Concepts: Calculated Measures, Calculated Columns.
-Filters and slicers
+
+1) Data Cleaning/Validation in Power Query
+2) Data Modelling
+3) Data Visualization
+4) DAX Concepts: Calculated Measures, Calculated Columns.
+5) Filters and slicers
 
 **About the Data**
+
+
 The raw data was gotten from https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce. It contains 9 tables which are Olist_customers, Olist_geolocation, Olist_order_items, Olist_order_payments, Olist_order_reviews, Olist_orders, Olist_products, Olist_sellers, Product_category_name.
 
 **Data Dictionary**
+
+
 **1) olist_customers_dataset.csv**
+
+
 customer_id: unique identifier for each customer
 customer_unique_id: unique identifier for each customer (anonymized)
 customer_zip_code_prefix: zip code prefix of the customer's address
@@ -22,11 +31,15 @@ customer_city: city where the customer is located
 customer_state: state where the customer is located
 
 **2)	olist_geolocation_dataset.csv**
+
+
 geolocation_zip_code_prefix: zip code prefix for the location
 geolocation_lat: latitude of the location
 geolocation_lng: longitude of the location
 geolocation_city: city of the location
 geolocation_state: state of the location
+
+
 **3)	olist_orders_dataset.csv**
 
 order_id: unique identifier for each order
@@ -37,6 +50,8 @@ order_approved_at: date and time when the payment for the order was approved
 order_delivered_carrier_date: date and time when the order was handed over to the carrier
 order_delivered_customer_date: date and time when the order was delivered to the customer
 order_estimated_delivery_date: estimated date when the order is expected to be delivered
+
+
 **4)	olist_order_items_dataset.csv**
 
 order_id: unique identifier for the order
@@ -46,6 +61,8 @@ seller_id: unique identifier for the seller who listed the
 product shipping_limit_date: date and time when the seller has to ship the product
 price: price of the product
 freight_value: shipping fee for the product
+
+
 **5)	olist_order_payments_dataset.csv**
 
 order_id: unique identifier for the order
