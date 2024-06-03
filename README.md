@@ -25,41 +25,62 @@ The raw data was gotten from https://www.kaggle.com/datasets/olistbr/brazilian-e
 
 
 customer_id: unique identifier for each customer
+
 customer_unique_id: unique identifier for each customer (anonymized)
+
 customer_zip_code_prefix: zip code prefix of the customer's address
+
 customer_city: city where the customer is located
+
 customer_state: state where the customer is located
 
 **2)	olist_geolocation_dataset.csv**
 
 
 geolocation_zip_code_prefix: zip code prefix for the location
+
 geolocation_lat: latitude of the location
+
 geolocation_lng: longitude of the location
+
 geolocation_city: city of the location
+
 geolocation_state: state of the location
 
 
 **3)	olist_orders_dataset.csv**
 
 order_id: unique identifier for each order
-customer_id: unique identifier for the customer who placed the order
+
+customer_id: unique identifier for the customer who placed the order.
+
 order_status: current status of the order (e.g. delivered, shipped, canceled)
+
 order_purchase_timestamp: date and time when the order was placed
+
 order_approved_at: date and time when the payment for the order was approved
+
 order_delivered_carrier_date: date and time when the order was handed over to the carrier
+
 order_delivered_customer_date: date and time when the order was delivered to the customer
+
 order_estimated_delivery_date: estimated date when the order is expected to be delivered
 
 
 **4)	olist_order_items_dataset.csv**
 
 order_id: unique identifier for the order
+
 order_item_id: unique identifier for each item within an order
+
 product_id: unique identifier for the product being ordered
+
 seller_id: unique identifier for the seller who listed the
+
 product shipping_limit_date: date and time when the seller has to ship the product
+
 price: price of the product
+
 freight_value: shipping fee for the product
 
 
