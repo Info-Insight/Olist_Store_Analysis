@@ -87,41 +87,63 @@ freight_value: shipping fee for the product
 **5)	olist_order_payments_dataset.csv**
 
 order_id: unique identifier for the order
+
 payment_sequential: index number for each payment made for an order
+
 payment_type: type of payment used for the order (e.g. credit card, debit card, voucher)
+
 payment_installments: number of installments in which the payment was made
+
 payment_value: value of the payment made
 **6)	olist_products_dataset.csv**
 
 product_id: unique identifier for each product
+
 product_category_name: name of the category that the product belongs to
+
 product_name_lenght: number of characters in the product name
+
 product_description_lenght: number of characters in the product description
+
 product_photos_qty: number of photos for the product
+
 product_weight_g: weight of the product in grams
+
 product_length_cm: length of the product in centimeters
+
 product_height_cm: height of the product in centimeters
+
 product_width_cm: width of the product in centimeters
 
 **7)	olist_sellers_dataset.csv**
 
 seller_id: unique identifier for each seller
+
 seller_zip_code_prefix: zip code prefix for the seller's location
+
 seller_city: city where the seller is located
+
 seller_state: state where the seller is located
 
 **8)	product_category_name_translation.csv**
 
 product_category_name: name of the product category in Portuguese
+
 product_category_name_english: name of the product category in English
 
 **9)	olist_order_reviews_dataset.csv**
 review_id: unique identifier for each review
+
 order_id: unique identifier for the order that the review is associated with
+
 review_score: numerical score (1-5) given by the customer for the product
+
 review_comment_title: title of the review comment
+
 review_comment_message: text of the review comment
+
 review_creation_date: date and time when the review was created
+
 review_answer_timestamp: date and time when the seller responded to the review
 
 **Business Question**
