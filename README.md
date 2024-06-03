@@ -182,7 +182,49 @@ review_answer_timestamp: date and time when the seller responded to the review
 Thank you for your time i'm happy to listen any suggestions.😊👩‍💻
 
 Q1
+
 <img width="579" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/61f23aaa-07ec-4d47-ad61-d5c33b58d43d">
+
+Q2
+
+<img width="577" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/357f725a-e69a-47f4-a0d6-caceb37a76b0">
+
+Q3
+
+<img width="578" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/3e49c579-0692-4133-87dd-a97fa287b72b">
+
+Q4
+
+<img width="572" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/ed9984a8-ecfe-4943-af48-291bbaccd260">
+
+Q5
+
+<img width="575" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/f7f140de-fc42-4451-ac00-9801617a6346">
+
+
+Q6
+
+<img width="579" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/5147fbb4-6074-40bc-a33d-370f660166b2">
+
+Q7
+<img width="575" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/be74ed22-565e-49f4-8bab-d6ada48cd4a5">
+
+Q8
+<img width="580" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/1381e45b-95e0-44f4-b8ad-360f2ee37178">
+
+Q9
+<img width="579" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/67203701-dd00-4c59-9ff0-94c1fd3c2260">
+
+Q10
+<img width="577" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/474e6abd-5f62-4150-b048-d344e82fa639">
+
+Q11
+<img width="576" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/049d0af4-a32f-41fd-9652-a3b7218b849a">
+
+
+
+
+
 
 
 
