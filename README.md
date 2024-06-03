@@ -181,7 +181,9 @@ review_answer_timestamp: date and time when the seller responded to the review
 
 Thank you for your time i'm happy to listen any suggestions.😊👩‍💻
 
-Contact:- pshreya7818@gmail.com
+Q1
+<img width="579" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/61f23aaa-07ec-4d47-ad61-d5c33b58d43d">
+
 
 
 
