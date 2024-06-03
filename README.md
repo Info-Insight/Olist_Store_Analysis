@@ -207,18 +207,23 @@ Q6
 <img width="579" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/5147fbb4-6074-40bc-a33d-370f660166b2">
 
 Q7
+
 <img width="575" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/be74ed22-565e-49f4-8bab-d6ada48cd4a5">
 
 Q8
+
 <img width="580" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/1381e45b-95e0-44f4-b8ad-360f2ee37178">
 
 Q9
+
 <img width="579" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/67203701-dd00-4c59-9ff0-94c1fd3c2260">
 
 Q10
+
 <img width="577" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/474e6abd-5f62-4150-b048-d344e82fa639">
 
 Q11
+
 <img width="576" alt="image" src="https://github.com/Info-Insight/Olist_Store_Analysis/assets/153328845/049d0af4-a32f-41fd-9652-a3b7218b849a">
 
 
